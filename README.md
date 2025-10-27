@@ -1,9 +1,10 @@
 # 👋 Olá, meu nome é Gabriel Orlandi!
 
-💼 Atualmente trabalho na RETESP, uma empresa de grande porte onde atuo na área de Análise de Vendas, realizando o acompanhamento de indicadores comerciais, criação de relatórios estratégicos e suporte à tomada de decisões por meio de análises de dados e visualizações em Power BI e Excel.
-🎓 Também sou estudante de Análise e Desenvolvimento de Sistemas na FECAP, apaixonado por tecnologia, dados e aprendizado contínuo.
-📊 Tenho interesse especial em Ciência e Análise de Dados, buscando sempre desenvolver projetos que combinem programação, estatística e visualização de informações.
-📚 Aqui você encontrará meus projetos da faculdade e experimentos pessoais com Python, SQL, Power BI e outras ferramentas de dados.
+- 💼 Atualmente trabalho na **RETESP**, uma empresa de grande porte onde atuo na área de **Análise de Vendas**, realizando o acompanhamento de **indicadores comerciais**, criação de **relatórios estratégicos** e suporte à **tomada de decisões** por meio de **análises de dados e visualizações** em **Power BI** e **Excel**.  
+- 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas na FECAP**, apaixonado por **tecnologia, dados e aprendizado contínuo**.  
+- 📊 Tenho interesse especial em **Ciência e Análise de Dados**, buscando sempre desenvolver projetos que combinem **programação, estatística e visualização de informações**.  
+- 📚 Aqui você encontrará meus **projetos da faculdade** e **experimentos pessoais** com **Python, SQL, Power BI** e outras ferramentas de dados.
+
 
 ---
 
@@ -24,7 +25,7 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Orlandi-Portes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

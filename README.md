@@ -1,6 +1,42 @@
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Orlandi-Portes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-Orlandi-Portes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
-</div>
+# 👋 Olá, meu nome é Gabriel Orlandi!
 
-###
+💼 Atualmente trabalho na RETESP, uma empresa de grande porte onde atuo na área de Análise de Vendas, realizando o acompanhamento de indicadores comerciais, criação de relatórios estratégicos e suporte à tomada de decisões por meio de análises de dados e visualizações em Power BI e Excel.
+🎓 Também sou estudante de Análise e Desenvolvimento de Sistemas na FECAP, apaixonado por tecnologia, dados e aprendizado contínuo.
+📊 Tenho interesse especial em Ciência e Análise de Dados, buscando sempre desenvolver projetos que combinem programação, estatística e visualização de informações.
+📚 Aqui você encontrará meus projetos da faculdade e experimentos pessoais com Python, SQL, Power BI e outras ferramentas de dados.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Orlandi-Portes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Orlandi-Portes&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+
+---
+
+## 🌐 Entre em contato comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gabriel-orlandi-portes)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gabrilorlandi@gmail.com)
+
+

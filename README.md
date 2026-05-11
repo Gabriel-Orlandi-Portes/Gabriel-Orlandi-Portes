@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Gabriel Orlandi!
 
-- 💼 Atualmente trabalho na **RETESP**, a maior empresa relacionada a vedações indústriais do Brasil, onde atuo na área de **Análise de Vendas**, realizando o acompanhamento de **indicadores comerciais**, criação de **relatórios estratégicos** e suporte à **tomada de decisões** por meio de **análises de dados e visualizações** em **Power BI** e **Excel**.  
+- 💼 Atualmente trabalho na **RETESP**, a maior empresa relacionada a vedações indústriais do Brasil, onde atuo na área de **Análise de Vendas**, realizando o acompanhamento de **indicadores comerciais**, criação de **relatórios estratégicos** e suporte à **tomada de decisões** por meio de **análises de dados e visualizações** em **Power BI** e **Excel**
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas na FECAP**, apaixonado por **tecnologia, dados e aprendizado contínuo**.
 - 🎓 Atualmente estou iniciando o curso de **Tecnologia em Inteligência Artificial na FMU**, com o intuito de aumentar os meus conhecimentos em **analytics, dados, e modelos de aprendizado de máquina (ml)**
 - 📊 Tenho interesse especial em **Ciência e Análise de Dados**, buscando sempre desenvolver projetos que combinem **programação, estatística e visualização de informações**.  

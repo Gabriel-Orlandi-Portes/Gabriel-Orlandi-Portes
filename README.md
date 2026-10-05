@@ -1,14 +1,14 @@
 # 👋 Olá, meu nome é Gabriel Orlandi!
 
-- 💼 Atualmente trabalho na **RETESP**, a maior empresa relacionada a vedações industriais do Brasil, onde atuo na área de **Análise de Vendas**, realizando o acompanhamento de **indicadores comerciais**, criação de **relatórios estratégicos** e suporte à **tomada de decisões** por meio de **análises de dados e visualizações** em **Power BI** e **Excel**.
+- 💼 Atualmente atuo como **Estagiário de Dados na área de Cartões do Banco Industrial do Brasil (BIB)**, trabalhando com **análise de dados, indicadores, dashboards e automação de processos**, utilizando ferramentas como **Power BI, SQL e Python** para transformar dados em informações que apoiem a tomada de decisões.
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas na FECAP**, apaixonado por **tecnologia, dados e aprendizado contínuo**.
-
-- 🎓 Atualmente estou iniciando o curso de **Tecnologia em Inteligência Artificial na FMU**, com o objetivo de aprofundar meus conhecimentos em **Analytics, Dados e Modelos de Machine Learning**.
-
-- 📊 Tenho interesse especial em **Ciência e Análise de Dados**, buscando desenvolver projetos que combinem **programação, estatística e visualização de informações**.
-
-- 📚 Aqui você encontrará meus **projetos acadêmicos** e **experimentos pessoais** envolvendo **Python, SQL, Power BI** e outras ferramentas relacionadas a dados.
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas pela FECAP**, com interesse em **tecnologia, dados e aprendizado contínuo**.
+  
+- 🎓 Cursando **Tecnologia em Inteligência Artificial na FMU**, aprofundando meus conhecimentos em **Análise de Dados, Automação, Machine Learning e Inteligência Artificial**.
+  
+- 📊 Minha trajetória profissional vem sendo direcionada para a área de **Dados**, unindo conhecimentos de **programação, análise, visualização e negócios** para desenvolver soluções orientadas por dados.
+  
+- 📚 Aqui você encontrará meus **projetos acadêmicos, projetos pessoais e experimentos**, envolvendo **Python, SQL, Power BI, Inteligência Artificial** e outras tecnologias relacionadas a dados.
 
 
 ---
